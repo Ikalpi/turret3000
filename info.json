@@ -1,0 +1,9 @@
+{
+  "name": "turret3000",
+  "version": "0.0.1",
+  "title": "Special turrets",
+  "author": "Thasso, saleoT",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1"],
+  "description": "This mod adds some special turrets like various sniper turrets."
+}
